@@ -1,0 +1,8 @@
+npx create-react-app name
+	-react react structure
+npm start
+	-start react app
+npm install --save-dev style-loader
+	-install style loader for import
+npm install --save-dev css-loader
+	-install style loader for import
